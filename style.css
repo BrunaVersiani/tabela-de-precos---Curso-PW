@@ -1,0 +1,35 @@
+body{
+background: azure;
+color: blue;
+text-align: center
+}
+
+img{
+  width: 100px;
+}
+
+table {
+border-color:red;
+text-align: center;
+background: red;
+}
+
+
+table {
+ background: orange; 
+  text-align: center;
+  border-color: peru;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+*{
+  margin: 0 auto;
+  padding: 0;
+}
+
+.typing{
+  font-family: 'Special Elite', cursive;
+  font-size: 2em;
+  padding: 1em;
+}
